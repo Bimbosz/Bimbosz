@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @Bimbosz
+- 👀 I’m interested in games, music, cars and fashion
+- 🌱 I’m currently learning Java
+- 💞️ I’m looking to collaborate on place that will help me improve my skills
+- 📫 How to reach me: milsmol01@gmail.com
+
+<!---
+Bimbosz/Bimbosz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
