@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Bimbosz
-- 👀 I’m interested in games, music, cars and fashion
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on place that will help me improve my skills
-- 📫 How to reach me: milsmol01@gmail.com
+- Hi, I’m Miłosz (Milo)
+- I’m interested in games, music, cars and fashion
+- Currently learning Java
+- I’m looking for place that will help me improve my skills
+- Contact me on milsmol01@gmail.com
